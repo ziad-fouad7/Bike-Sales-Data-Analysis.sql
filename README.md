@@ -38,9 +38,9 @@ The dashboard presents insights about:
 ## Project Structure
 
 - `Dataset/` – Contains the original CSV files.
-- `SQL/` – Contains SQL queries used for analysis.
-- `Dashboard/` – Contains the Power BI dashboard.
-- `Images/` – Contains dashboard screenshots.
+- `BIKE_SQL_QUERY.sql/` – Contains SQL queries used for analysis.
+- `Bike_Sales.pbix/` – Contains the Power BI dashboard.
+- `Bike Sales Dashboard.png/` – Contains dashboard screenshot.
 
 ## Dashboard Preview
 
